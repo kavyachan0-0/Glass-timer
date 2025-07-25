@@ -17,7 +17,7 @@
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/glass-timer.git
+git clone https://github.com/kavyachan0-0/Glass-timer.git
 cd glass-timer
 install node
 node start
