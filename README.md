@@ -14,8 +14,6 @@
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
-
 ```bash
 git clone https://github.com/kavyachan0-0/Glass-timer.git
 cd glass-timer
