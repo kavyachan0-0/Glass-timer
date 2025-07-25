@@ -12,4 +12,12 @@
 - 💡 Built with pure **HTML**, **CSS**, and **Vanilla JavaScript**
 
 
+## 🚀 Getting Started
 
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/glass-timer.git
+cd glass-timer
+install node
+node start
